@@ -195,8 +195,8 @@ export type WorkspaceData = {
 export const DEFAULT_SETTINGS: Settings = {
   dealership: "Linkdrive Auto Hub",
   email: "",
-  phone: "+260 970 785 901",
-  whatsapp: "+260970785901",
+  phone: "+260 779 691 111",
+  whatsapp: "+260779691111",
   address: "Lusaka, Zambia",
   currency: "ZMW",
   rates: { USD: 0.037, EUR: 0.034, GBP: 0.029, ZAR: 0.68 },
